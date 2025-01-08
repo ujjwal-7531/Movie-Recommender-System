@@ -4,8 +4,8 @@ import pandas as pd
 import requests
 import time
 
-df = pk.load(open('/home/ujjwal/Programs/ML-DS/PROJECTS/Movie Reccomender System/movie_list.pkl','rb'))
-similarity = pk.load(open('/home/ujjwal/Programs/ML-DS/PROJECTS/Movie Reccomender System/similarity.pkl','rb'))
+df = pk.load(open('movie_list.pkl','rb'))
+similarity = pk.load(open('similarity.pkl','rb'))
 
 
 # fetching movie poster based on movie id
