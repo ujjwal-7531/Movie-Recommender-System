@@ -37,13 +37,14 @@ vi) Cosine Similarity: Measured textual similarity to enhance recommendation acc
 <br><br>
 ## Visual from the Project
 ### 1. Interface
-![App Screenshot](https://github.com/ujjwal-7531/Movie-Recommender-System/blob/main/images/img1.png?raw=true)
+images/img1.png
+![App Screenshot](https://github.com/ujjwal-7531/Movie-Recommender-System/blob/main/images/img1.png)
 ### 2. Selecting Movie
-![App Screenshot](https://github.com/ujjwal-7531/Movie-Recommender-System/blob/main/images/img2.png?raw=true)
+![App Screenshot](https://github.com/ujjwal-7531/Movie-Recommender-System/blob/main/images/img2.png)
 ### 3. Searching 
-![App Screenshot](https://github.com/ujjwal-7531/Movie-Recommender-System/blob/main/images/img3.png?raw=true)
+![App Screenshot](https://github.com/ujjwal-7531/Movie-Recommender-System/blob/main/images/img3.png)
 ### 4. Result
-![App Screenshot](https://github.com/ujjwal-7531/Movie-Recommender-System/blob/main/images/img4.png?raw=true)
+![App Screenshot](https://github.com/ujjwal-7531/Movie-Recommender-System/blob/main/images/img4.png)
 <br><br>
 ## Tech. Used
 <br>
