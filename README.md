@@ -36,11 +36,17 @@ vi) Cosine Similarity: Measured textual similarity to enhance recommendation acc
 <br><br>
 <br><br>
 ## Visual from the Project
+- ### Interface
+![Example Image](images/img1.png "This is an example image")
+- ### Selecting From Dropbox
+![Example Image](images/img2.png "This is an example image")
+- ### Searching
+![Example Image](images/img3.png "This is an example image")
+- ### Result
+![Example Image](images/img4.png "This is an example image")
 
 <br><br>
-## Tech. Used
-<br>
-
+## Technology Used
 1. Python
 2. Streamlit
 3. Pandas
