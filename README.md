@@ -35,7 +35,7 @@ This project is a movie recommender system built using Streamlit framework. It s
 vi) Cosine Similarity: Measured textual similarity to enhance recommendation accuracy based on features.
 <br><br>
 <br><br>
-## Visual from the Project
+## Visuals From The Project
 - ### Interface
 ![Example Image](images/img1.png "This is an example image")
 - ### Selecting From Dropbox
